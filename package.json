@@ -11,7 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@genkit-ai/ai": "^1.19.2",
+    "@genkit-ai/ai": "^1.19.3",
     "@genkit-ai/core": "^1.19.2",
     "@genkit-ai/dotprompt": "^0.9.12",
     "@genkit-ai/flow": "^0.5.17",
